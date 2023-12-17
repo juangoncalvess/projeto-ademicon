@@ -1,0 +1,9 @@
+userteste@teste.com.br	
+123456789
+
+criar um novo usuario
+/register 
+
+laravel
+php-8.2.12
+
